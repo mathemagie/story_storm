@@ -17,3 +17,6 @@ To run the application, use the following command:
 ```console
 streamlit run index.py
 ```
+## Credits :
+
+https://replit.com/@DavidAtReplit via https://spotlight-05-12-2023.util.repl.co/
